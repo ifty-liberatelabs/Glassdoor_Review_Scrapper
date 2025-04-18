@@ -1,0 +1,745 @@
+[
+    {
+        "data": {
+            "recordPageView": {
+                "__typename": "PageViewSummary",
+                "totalCount": 237
+            }
+        }
+    },
+    {
+        "data": {
+            "employerReviews": {
+                "__typename": "EmployerReviewsRG",
+                "allReviewsCount": 5923,
+                "currentPage": 236,
+                "filteredReviewsCount": 4303,
+                "lastReviewDateTime": "2025-04-16T19:49:30.097",
+                "numberOfPages": 431,
+                "queryJobTitle": null,
+                "queryLocation": null,
+                "ratedReviewsCount": 4826,
+                "ratingCountDistribution": {
+                    "__typename": "RatingCountDistribution",
+                    "careerOpportunities": {
+                        "_1": 687,
+                        "_2": 624,
+                        "_3": 953,
+                        "_4": 951,
+                        "_5": 849,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "compensationAndBenefits": {
+                        "_1": 861,
+                        "_2": 854,
+                        "_3": 1134,
+                        "_4": 764,
+                        "_5": 439,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "cultureAndValues": {
+                        "_1": 550,
+                        "_2": 382,
+                        "_3": 680,
+                        "_4": 875,
+                        "_5": 1508,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "diversityAndInclusion": {
+                        "_1": 239,
+                        "_2": 141,
+                        "_3": 320,
+                        "_4": 474,
+                        "_5": 754,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "overall": {
+                        "_1": 593,
+                        "_2": 616,
+                        "_3": 1129,
+                        "_4": 1369,
+                        "_5": 1105,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "recommendToFriend": {
+                        "RECOMMEND": 2123,
+                        "WONT_RECOMMEND": 1390,
+                        "__typename": "RecommendToFriendRatingCountDistribution"
+                    },
+                    "seniorManagement": {
+                        "_1": 879,
+                        "_2": 589,
+                        "_3": 852,
+                        "_4": 888,
+                        "_5": 763,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "workLifeBalance": {
+                        "_1": 768,
+                        "_2": 624,
+                        "_3": 898,
+                        "_4": 900,
+                        "_5": 853,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    }
+                },
+                "ratings": {
+                    "__typename": "EmployerRatings",
+                    "businessOutlookRating": 0.49,
+                    "careerOpportunitiesRating": 3.2,
+                    "ceoRating": 0.69,
+                    "compensationAndBenefitsRating": 2.9,
+                    "cultureAndValuesRating": 3.6,
+                    "diversityAndInclusionRating": 3.8,
+                    "overallRating": 3.4,
+                    "ratedCeo": {
+                        "__typename": "Ceo",
+                        "id": 250182,
+                        "largePhoto": "https://media.glassdoor.com/people/sqll/335551/ef-education-first-ceo1648550297076.png",
+                        "name": "Edward Hult, Ph.D",
+                        "regularPhoto": "https://media.glassdoor.com/people/sql/335551/ef-education-first-ceo1648550297076.png",
+                        "title": "CEO "
+                    },
+                    "recommendToFriendRating": 0.61,
+                    "reviewCount": 4817,
+                    "seniorManagementRating": 3.1,
+                    "workLifeBalanceRating": 3.2
+                },
+                "reviews": [
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "They scam their clients deliberately",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4407086,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your feedback and for your time working at EF. We're glad that your coworkers were friendly. We do not believe in scamming our customers in any way. If you're comfortable sharing more, please email hr@ef.com so the team can hear more about your experience.",
+                                "responseDateTime": "2022-12-12T14:56:32.207",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 28220,
+                            "text": "Sales Coordinator"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2664239,
+                            "name": "Madrid",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "People working at the company, everyone is very friendly",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEGATIVE",
+                        "ratingCareerOpportunities": 3.0,
+                        "ratingCeo": "DISAPPROVE",
+                        "ratingCompensationAndBenefits": 3.0,
+                        "ratingCultureAndValues": 3,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 4.0,
+                        "ratingWorkLifeBalance": 2.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-12-04T13:34:31.567",
+                        "reviewId": 71606749,
+                        "summary": "Good work environment, bad customer service",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Under pay and not good working environment",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4426862,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your feedback. We are happy to hear you enjoyed the events you were able to participate in during your time working at EF. We work to ensure that our team members are given competitive compensation and benefits based on industry standards and also that they maintain a healthy work-life balance. We wish you all the best in your future endeavors.",
+                                "responseDateTime": "2022-12-22T13:50:22.76",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 23437,
+                            "text": "Accountant"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": {
+                            "__typename": "City",
+                            "id": 3297851,
+                            "name": "Z\u00fcrich",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Good organization and many events",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 1.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 4,
+                        "ratingDiversityAndInclusion": 1,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 4.0,
+                        "ratingWorkLifeBalance": 4.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-12-18T13:53:36.870",
+                        "reviewId": 71959310,
+                        "summary": "underpaid",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "You are pressured to continue even when you are gravely sick. 1 coworker fainted at work another kept coughing and vomited at work but still pressured to continue working. \r\nThe company created a system where your schedules are fairly busy. If you were to fall ill, your coworkers will need to take your classes even if they are busy themselves, therefore you are discouraged to take any sick days and if you do everyone will be extremely overworked thus creating hate and tension amongst coworkers. The managers also call to pressure, guilt, or yell at you, whatever is needed to get you into work. They really don't care about your well-being. \r\nThe work environment is quite toxic with the manager creating feuds between coworkers with the whole \"he said she said\" and gossip whether it is true or not and always acting innocent and saying they are totally on your side or how they understand you. They say things I guess sometimes for kicks, and other times to get things to work their way. Having a sick person's workload being put onto other very busy coworkers creates hatred.\r\nOverworked in the summer times as they want to have regular classes plus special summer classes, so on top of the regular class you teach 2-4 more classes a day depending on your schedule. Everyone is extremely stressed and wiped out during this period.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 3274283,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "We're sorry to hear about your experience and ask that you please contact teacher.welfare@ef.cn so that we can address these matters. We would also appreciate any additional information you could share. The health and safety of our staff and students is our priority and we take these allegations very seriously. If you prefer to not provide additional information in writing, a phone call can be arranged.",
+                                "responseDateTime": "2021-06-02T18:45:32.943",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 26970,
+                            "text": "Foreign English Teacher"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 2,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2465260,
+                            "name": "Nanjing, Jiangsu",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "The enrollment and testing of teaching English TKT and CLIL certification from the University of Cambridge are included in the work package so you don't need to pay for it. The training for this is free.\r\nDifferent types of people from around the work to work with.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 1.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 1,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 2,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 2.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2021-05-24T22:32:42.307",
+                        "reviewId": 47410465,
+                        "summary": "Nanjing Locations: Overworked &amp; Toxic work environment",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "No cons for this company",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4426872,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your review! We are happy to hear that you enjoyed the culture and growth opportunities while working with EF, and we wish you all the best in your future endeavors!",
+                                "responseDateTime": "2022-12-22T13:55:56.357",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 4279,
+                            "text": "Software Engineer"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 4,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2940587,
+                            "name": "Bengaluru",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Nice work culture with professional growth",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "POSITIVE",
+                        "ratingCareerOpportunities": 4.0,
+                        "ratingCeo": "APPROVE",
+                        "ratingCompensationAndBenefits": 4.0,
+                        "ratingCultureAndValues": 4,
+                        "ratingDiversityAndInclusion": 4,
+                        "ratingOverall": 4,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 4.0,
+                        "ratingWorkLifeBalance": 4.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-12-14T18:54:56.757",
+                        "reviewId": 71873116,
+                        "summary": "Education first",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Employees are underpaid compared to the rest of the market.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4356219,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your feedback! We\u2019re happy to hear you enjoyed the analytical aspects of your role and the travel opportunities. We review our compensation structures regularly to ensure we are competitive in the areas where we operate. We appreciate you taking the time to leave us a review and wish you all the best in your future adventures!",
+                                "responseDateTime": "2022-11-14T13:54:48.557",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 26885,
+                            "text": "Flight Coordinator"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 4,
+                        "location": {
+                            "__typename": "City",
+                            "id": 3297851,
+                            "name": "Z\u00fcrich",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Great company and people. The job is very analytical and detailed oriented but came with great travel opportunities.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 4.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 5,
+                        "ratingDiversityAndInclusion": 4,
+                        "ratingOverall": 4,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 3.0,
+                        "ratingWorkLifeBalance": 3.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-10-31T05:51:56.167",
+                        "reviewId": 70641080,
+                        "summary": "Review Flights Coordinator",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Management will not always recognize your work",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4407104,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your review. We're glad you enjoyed the team and atmosphere at EF. We appreciate feedback like this to ensure we continue to grow as an organization and hope you can continue to grow and learn with us.",
+                                "responseDateTime": "2022-12-12T15:04:24.887",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 3134458,
+                            "text": "Flights Coordinator"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Good atmosphere, great colleagues and offices",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 0.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 0.0,
+                        "ratingCultureAndValues": 0,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 0.0,
+                        "ratingWorkLifeBalance": 0.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-12-06T23:35:30.750",
+                        "reviewId": 71677297,
+                        "summary": "-",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": "My manager was a little micro-managey at times. never had any terrible experiences, but there was a bit of a misunderstanding on my first day (I'd had like 4 hours sleep after a 16-hour flight and they wanted a full work day out of me) They seemed to expect me tu just understand and know the vast cultural differences straight away too, which was a real stretch.",
+                        "adviceOriginal": null,
+                        "cons": "Lower than average salary, really difficult to get money out of the country, and it's getting worse. So you may end up stranded there with a lot of money.\r\n\r\nif you want to progress, you have to jump through a lot of hoops. and you can go quite a way in the company doing so before you'll reach even a normal salary for smaller companies. (you can earn like 25000 CNY/month at an international kindergarten with very little responsibility, but heaven knows what EF would make you do for that amount of money. You'd probably have to be a health and safety-trained, first-aid expert paramedic with all his scouts badges and you'd have to pass 800 hour-long online quizzes, demonstrating that you know how to walk, and that you know how to take your pulse, and you can bleed a radiator... etc. etc. (I think you may get what I'm driving at by now so I'll cease with the flippantry).",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 3096905,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your feedback and recommending us as an employer. We're glad we were able to provide support in regards to your visa and onboarding process. For incoming teachers, all costs related to your visa will be reimbursed  upon arriving in China once your bank account is set up. In regards to transferring money, we have no control over regulating laws so encourage staff to research requirements in China and the country where the money is being sent to. We understand that the first day of onboarding can be long after travelling overseas, but due to the visa process a lot does need to happen on that first day in order to meet visa deadlines. However, we will take this into consideration. We know that understanding cultural differences doesn't happen over night so hope that after 1+ years with us you got to a point where you felt comfortable. We will also share this feedback and see how we can best support the staff making the transition. If you would like to share any additional feedback feel free to email us at teacher.welfare@ef.cn. Best of luck with your future endeavors.",
+                                "responseDateTime": "2021-03-16T20:02:53.24",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 4299923,
+                            "text": "T2 Teacher"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 2,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2398510,
+                            "name": "Beijing, Beijing",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Assistance with moving, as a good standard of English is spoken by chinese colleagues which isn't always the case. they can offer great assistance in quite a few matters. Visa is paid for (if you can front costs to have them repaid via expenses)",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "POSITIVE",
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 3.0,
+                        "ratingCultureAndValues": 3,
+                        "ratingDiversityAndInclusion": 4,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 4.0,
+                        "ratingWorkLifeBalance": 3.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2021-03-03T04:55:32.623",
+                        "reviewId": 43392919,
+                        "summary": "Okay, wouldn't recommend if you're well qualified/already know China",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Lower salaries than other companies",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4407097,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your review and for working at EF! We're glad that you've enjoyed this experience so far. We review our compensation regularly to ensure we are offering a competitive package. We hope you continue to grow and learn with us!",
+                                "responseDateTime": "2022-12-12T15:02:02.697",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 43960,
+                            "text": "Financial Analyst"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "International workspace with great interactions",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "POSITIVE",
+                        "ratingCareerOpportunities": 5.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 5,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 5,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 5.0,
+                        "ratingWorkLifeBalance": 5.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-12-06T13:33:58.157",
+                        "reviewId": 71665683,
+                        "summary": "Great!",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "poor management, no holidays, six day work weeks often, overwork and gaslight employees, poor resources",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 20246,
+                            "text": "Teacher"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2520983,
+                            "name": "Shenzhen, Guangdong",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "help with visa, getting to China",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEGATIVE",
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 1,
+                        "ratingDiversityAndInclusion": 1,
+                        "ratingOverall": 2,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 2.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-11-17T21:58:51.100",
+                        "reviewId": 71190597,
+                        "summary": "EF",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Colleagues from all around the world that timezone difference may add difficulties",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4405847,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "Thank you for your review. We are happy to hear you're enjoying your time working at EF, and we look forward to seeing where your career will take you!",
+                                "responseDateTime": "2022-12-12T08:20:21.82",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 4279,
+                            "text": "Software Engineer"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Nice and standandize working culture",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 4.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 3.0,
+                        "ratingCultureAndValues": 5,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 5,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 5.0,
+                        "ratingWorkLifeBalance": 5.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-11-14T09:05:30.280",
+                        "reviewId": 71061273,
+                        "summary": "Nice working culture",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    }
+                ]
+            }
+        }
+    }
+]

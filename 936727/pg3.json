@@ -1,0 +1,352 @@
+[
+    {
+        "data": {
+            "recordPageView": {
+                "__typename": "PageViewSummary",
+                "totalCount": 4
+            }
+        }
+    },
+    {
+        "data": {
+            "employerReviews": {
+                "__typename": "EmployerReviewsRG",
+                "allReviewsCount": 31,
+                "currentPage": 3,
+                "filteredReviewsCount": 25,
+                "lastReviewDateTime": "2025-03-11T02:48:17.617",
+                "numberOfPages": 3,
+                "queryJobTitle": null,
+                "queryLocation": null,
+                "ratedReviewsCount": 26,
+                "ratingCountDistribution": {
+                    "__typename": "RatingCountDistribution",
+                    "careerOpportunities": {
+                        "_1": 0,
+                        "_2": 4,
+                        "_3": 9,
+                        "_4": 2,
+                        "_5": 2,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "compensationAndBenefits": {
+                        "_1": 1,
+                        "_2": 3,
+                        "_3": 8,
+                        "_4": 3,
+                        "_5": 2,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "cultureAndValues": {
+                        "_1": 1,
+                        "_2": 2,
+                        "_3": 1,
+                        "_4": 5,
+                        "_5": 8,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "diversityAndInclusion": {
+                        "_1": 1,
+                        "_2": 1,
+                        "_3": 6,
+                        "_4": 1,
+                        "_5": 5,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "overall": {
+                        "_1": 0,
+                        "_2": 1,
+                        "_3": 10,
+                        "_4": 7,
+                        "_5": 8,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "recommendToFriend": {
+                        "RECOMMEND": 12,
+                        "WONT_RECOMMEND": 2,
+                        "__typename": "RecommendToFriendRatingCountDistribution"
+                    },
+                    "seniorManagement": {
+                        "_1": 1,
+                        "_2": 3,
+                        "_3": 7,
+                        "_4": 4,
+                        "_5": 1,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "workLifeBalance": {
+                        "_1": 0,
+                        "_2": 3,
+                        "_3": 2,
+                        "_4": 7,
+                        "_5": 4,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    }
+                },
+                "ratings": {
+                    "__typename": "EmployerRatings",
+                    "businessOutlookRating": 0.75,
+                    "careerOpportunitiesRating": 3.1,
+                    "ceoRating": -1.0,
+                    "compensationAndBenefitsRating": 3.1,
+                    "cultureAndValuesRating": 4.7,
+                    "diversityAndInclusionRating": 3.6,
+                    "overallRating": 4.0,
+                    "ratedCeo": null,
+                    "recommendToFriendRating": 0.99,
+                    "reviewCount": 26,
+                    "seniorManagementRating": 3.3,
+                    "workLifeBalanceRating": 4.3
+                },
+                "reviews": [
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "As my online classes were running, I had to face a lot of problems.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 936727,
+                            "largeLogoUrl": null,
+                            "regularLogoUrl": null,
+                            "shortName": "International Islamic University Chittagong"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "PART_TIME",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 20313,
+                            "text": "Teaching Assistant"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2267834,
+                            "name": "Dhaka",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "I learned a lot while I worked as TA.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEUTRAL",
+                        "ratingCareerOpportunities": 3.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 3.0,
+                        "ratingCultureAndValues": 4,
+                        "ratingDiversityAndInclusion": 3,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 3.0,
+                        "ratingWorkLifeBalance": 2.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-02-13T06:00:57.790",
+                        "reviewId": 59588493,
+                        "summary": "Teaching Assistant",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "- Politically biased\r\n-No opportunity for research\r\n-Default credit/hour need to be conducted is high",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 936727,
+                            "largeLogoUrl": null,
+                            "regularLogoUrl": null,
+                            "shortName": "International Islamic University Chittagong"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 25380,
+                            "text": "Lecturer"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2267834,
+                            "name": "Dhaka",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "- Friendly environment\r\n-Regular salary\r\n-Taking extra load opportunity",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEUTRAL",
+                        "ratingCareerOpportunities": 3.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 3.0,
+                        "ratingCultureAndValues": 2,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 2,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 2.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2020-07-11T09:13:34.860",
+                        "reviewId": 34171409,
+                        "summary": "Good for a short period",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Low ssalary so no wroth my efforts",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 936727,
+                            "largeLogoUrl": null,
+                            "regularLogoUrl": null,
+                            "shortName": "International Islamic University Chittagong"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 304055,
+                            "text": "Professor of Information Studies"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Nice environment to live in",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 2,
+                        "ratingDiversityAndInclusion": 1,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 3.0,
+                        "ratingWorkLifeBalance": 4.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2021-12-04T06:04:19.233",
+                        "reviewId": 56219737,
+                        "summary": "My view about it",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Thia Institute is situated outside chittagong city.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 936727,
+                            "largeLogoUrl": null,
+                            "regularLogoUrl": null,
+                            "shortName": "International Islamic University Chittagong"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": null,
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Good work environment espeically for practicing Muslims.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 0.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 0.0,
+                        "ratingCultureAndValues": 0,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 4,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 0.0,
+                        "ratingWorkLifeBalance": 0.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-02-02T23:34:50.800",
+                        "reviewId": 59018385,
+                        "summary": "Good",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Work from home in bd.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 936727,
+                            "largeLogoUrl": null,
+                            "regularLogoUrl": null,
+                            "shortName": "International Islamic University Chittagong"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 17074,
+                            "text": "Senior Lecturer"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Ok ok ok ok ok",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 0.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 0.0,
+                        "ratingCultureAndValues": 0,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 0.0,
+                        "ratingWorkLifeBalance": 0.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-04-30T13:24:35.467",
+                        "reviewId": 63488446,
+                        "summary": "Lecturer",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    }
+                ]
+            }
+        }
+    }
+]

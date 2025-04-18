@@ -1,0 +1,289 @@
+[
+    {
+        "data": {
+            "recordPageView": {
+                "__typename": "PageViewSummary",
+                "totalCount": 432
+            }
+        }
+    },
+    {
+        "data": {
+            "employerReviews": {
+                "__typename": "EmployerReviewsRG",
+                "allReviewsCount": 5923,
+                "currentPage": 431,
+                "filteredReviewsCount": 4303,
+                "lastReviewDateTime": "2025-04-16T19:49:30.097",
+                "numberOfPages": 431,
+                "queryJobTitle": null,
+                "queryLocation": null,
+                "ratedReviewsCount": 4826,
+                "ratingCountDistribution": {
+                    "__typename": "RatingCountDistribution",
+                    "careerOpportunities": {
+                        "_1": 687,
+                        "_2": 624,
+                        "_3": 953,
+                        "_4": 951,
+                        "_5": 849,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "compensationAndBenefits": {
+                        "_1": 861,
+                        "_2": 854,
+                        "_3": 1134,
+                        "_4": 764,
+                        "_5": 439,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "cultureAndValues": {
+                        "_1": 550,
+                        "_2": 382,
+                        "_3": 680,
+                        "_4": 875,
+                        "_5": 1508,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "diversityAndInclusion": {
+                        "_1": 239,
+                        "_2": 141,
+                        "_3": 320,
+                        "_4": 474,
+                        "_5": 754,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "overall": {
+                        "_1": 593,
+                        "_2": 616,
+                        "_3": 1129,
+                        "_4": 1369,
+                        "_5": 1105,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "recommendToFriend": {
+                        "RECOMMEND": 2123,
+                        "WONT_RECOMMEND": 1390,
+                        "__typename": "RecommendToFriendRatingCountDistribution"
+                    },
+                    "seniorManagement": {
+                        "_1": 879,
+                        "_2": 589,
+                        "_3": 852,
+                        "_4": 888,
+                        "_5": 763,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "workLifeBalance": {
+                        "_1": 768,
+                        "_2": 624,
+                        "_3": 898,
+                        "_4": 900,
+                        "_5": 853,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    }
+                },
+                "ratings": {
+                    "__typename": "EmployerRatings",
+                    "businessOutlookRating": 0.49,
+                    "careerOpportunitiesRating": 3.2,
+                    "ceoRating": 0.69,
+                    "compensationAndBenefitsRating": 2.9,
+                    "cultureAndValuesRating": 3.6,
+                    "diversityAndInclusionRating": 3.8,
+                    "overallRating": 3.4,
+                    "ratedCeo": {
+                        "__typename": "Ceo",
+                        "id": 250182,
+                        "largePhoto": "https://media.glassdoor.com/people/sqll/335551/ef-education-first-ceo1648550297076.png",
+                        "name": "Edward Hult, Ph.D",
+                        "regularPhoto": "https://media.glassdoor.com/people/sql/335551/ef-education-first-ceo1648550297076.png",
+                        "title": "CEO "
+                    },
+                    "recommendToFriendRating": 0.61,
+                    "reviewCount": 4817,
+                    "seniorManagementRating": 3.1,
+                    "workLifeBalanceRating": 3.2
+                },
+                "reviews": [
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Worst place to work ever",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 4053303,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "We are sorry to hear you have such feelings about working with us. In order for us to effectively address your concerns, we would need to have more details. You can anonymously contact us at HR@ef.com to share more. We wish you all the best.",
+                                "responseDateTime": "2022-06-14T19:07:47.39",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": null,
+                        "languageId": "eng",
+                        "lengthOfEmployment": 2,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2307704,
+                            "name": "Mong Kok, Kowloon City",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "None. This place is hell on earth",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 1.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 1,
+                        "ratingDiversityAndInclusion": 1,
+                        "ratingOverall": 1,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 1.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-06-03T23:51:22.047",
+                        "reviewId": 65081350,
+                        "summary": "It sucks",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Micromanagement was hard and tough",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 62380,
+                            "text": "BD Manager"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": {
+                            "__typename": "City",
+                            "id": 2802090,
+                            "name": "Milan",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Job Location was comfy and good",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 0.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 0.0,
+                        "ratingCultureAndValues": 0,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 1,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 0.0,
+                        "ratingWorkLifeBalance": 0.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2021-04-28T00:05:26.090",
+                        "reviewId": 46164263,
+                        "summary": "confiution",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Space too less for that",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 3949950,
+                                "languageId": "eng",
+                                "originalLanguageId": null,
+                                "response": "We are sorry to hear you had a negative experience during your time here. We would like to learn more if you feel comfortable sharing. You can contact us at HR@ef.com.",
+                                "responseDateTime": "2022-04-25T15:35:25.697",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 27531,
+                            "text": "Front End Developer"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Nothing much to share here..",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 0.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 0.0,
+                        "ratingCultureAndValues": 0,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 1,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 0.0,
+                        "ratingWorkLifeBalance": 0.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2022-04-16T02:32:39.793",
+                        "reviewId": 62853209,
+                        "summary": "Pathetic mgmt",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    }
+                ]
+            }
+        }
+    }
+]

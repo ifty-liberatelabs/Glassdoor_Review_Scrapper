@@ -1,0 +1,764 @@
+[
+    {
+        "data": {
+            "recordPageView": {
+                "__typename": "PageViewSummary",
+                "totalCount": 6
+            }
+        }
+    },
+    {
+        "data": {
+            "employerReviews": {
+                "__typename": "EmployerReviewsRG",
+                "allReviewsCount": 5923,
+                "currentPage": 5,
+                "filteredReviewsCount": 4303,
+                "lastReviewDateTime": "2025-04-16T19:49:30.097",
+                "numberOfPages": 431,
+                "queryJobTitle": null,
+                "queryLocation": null,
+                "ratedReviewsCount": 4826,
+                "ratingCountDistribution": {
+                    "__typename": "RatingCountDistribution",
+                    "careerOpportunities": {
+                        "_1": 687,
+                        "_2": 624,
+                        "_3": 953,
+                        "_4": 951,
+                        "_5": 849,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "compensationAndBenefits": {
+                        "_1": 861,
+                        "_2": 854,
+                        "_3": 1134,
+                        "_4": 764,
+                        "_5": 439,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "cultureAndValues": {
+                        "_1": 550,
+                        "_2": 382,
+                        "_3": 680,
+                        "_4": 875,
+                        "_5": 1508,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "diversityAndInclusion": {
+                        "_1": 239,
+                        "_2": 141,
+                        "_3": 320,
+                        "_4": 474,
+                        "_5": 754,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "overall": {
+                        "_1": 593,
+                        "_2": 616,
+                        "_3": 1129,
+                        "_4": 1369,
+                        "_5": 1105,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "recommendToFriend": {
+                        "RECOMMEND": 2123,
+                        "WONT_RECOMMEND": 1390,
+                        "__typename": "RecommendToFriendRatingCountDistribution"
+                    },
+                    "seniorManagement": {
+                        "_1": 879,
+                        "_2": 589,
+                        "_3": 852,
+                        "_4": 888,
+                        "_5": 763,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    },
+                    "workLifeBalance": {
+                        "_1": 768,
+                        "_2": 624,
+                        "_3": 898,
+                        "_4": 900,
+                        "_5": 853,
+                        "__typename": "FiveStarRatingCountDistribution"
+                    }
+                },
+                "ratings": {
+                    "__typename": "EmployerRatings",
+                    "businessOutlookRating": 0.49,
+                    "careerOpportunitiesRating": 3.2,
+                    "ceoRating": 0.69,
+                    "compensationAndBenefitsRating": 2.9,
+                    "cultureAndValuesRating": 3.6,
+                    "diversityAndInclusionRating": 3.8,
+                    "overallRating": 3.4,
+                    "ratedCeo": {
+                        "__typename": "Ceo",
+                        "id": 250182,
+                        "largePhoto": "https://media.glassdoor.com/people/sqll/335551/ef-education-first-ceo1648550297076.png",
+                        "name": "Edward Hult, Ph.D",
+                        "regularPhoto": "https://media.glassdoor.com/people/sql/335551/ef-education-first-ceo1648550297076.png",
+                        "title": "CEO "
+                    },
+                    "recommendToFriendRating": 0.61,
+                    "reviewCount": 4817,
+                    "seniorManagementRating": 3.1,
+                    "workLifeBalanceRating": 3.2
+                },
+                "reviews": [
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": "How does this company expect to grow and attract talent to lead it into the next generation of tech and expansion if it is going to continue to pay 50%+ under market value? EF is in one of the most expensive parts of the country, and is right in the middle of one of the tech epicenters of the US (Cambridge). Why would anyone work for you? Do you think people with established careers and families care enough about going to Europe by themselves to work on a tour once per year to justify earning a terrible salary? It is only a matter of time until EF is forced to either compensate fairly or face the music and downsize significantly. I fully expect them to choose the latter.\n\nManagement needs to get a handle on work-life balance. Outside of the 20-25 year old TCs who are having a grand old time, morale is absolutely terrible. My boss is an ego-maniac who would feed his team to a grizzly bear if it meant he'd get a promotion.",
+                        "adviceOriginal": null,
+                        "cons": "-you are expected to drink the EF kool-aid. there are culture books they make you read. they expect you to stay in line and not complain and extol the virtues of the company at all costs. the company town halls and meetings are like indoctrination sessions. \n-managers and HR will tell you to your face that EF offers \"culture\" instead of \"money\" \n-company claims it has good perks, and substitutes a competitive salary for a once-per-year solo trip with no family. \n-everything centers on booze. there is a bar on the first floor which people frequent. all EF parties turn into a sloppy drunk mess. \n-salaries are laughably low. i don't know how anyone over age 30 could make a living here. \n-work/life balance is non-existent. management doesn't care about you, the person, they care about making themselves look good at any cost. there are no time or day boundaries to communication. you are expected to answer at 8PM, at midnight, on Sunday, whatever. most people are working 50+ hours per week at their pathetic salary. if you have a family, good luck to you and them. \n-the company praises things like equality and DEIB yet I'd say the staff is 99.5% white. i have worked here for almost three years and i have encountered two Black employees, one person of Indian descent, and two people of Asian descent. Over 1,000 people work in the Cambridge office, a city that is 12% Black and 19% Asian. \n-there is nowhere to park, a two-year waiting list for the parking garage at the building (which somehow still costs $180 per month), and no subsidy for commuters. \n-the benefits aren't great. the health insurance is decent, although heading into 2025 they offered worse policies that cost more. trending in the wrong direction. they also only match 25% of your 401k contribution, which is poor. Most companies will match 100% for the first few percentage points, but not this greedy company. \n-they are cheap misers. the most recent company kickoff in Montreal came with ridiculous rules around expenses, barely offering to cover the cost of fast food, never mind actual meals. There was no reimbursement if you made the trip yourself - it was their cramped bus or your wallet. Everyone had to double up on hotel rooms (except Directors and above, of course). This is a trend. They are cheap penny pinchers in every possible way.\n-there is no clear path to move up. people just jump around this company. there are so many people in positions they are totally unqualified for because vertical movement is a foreign concept here.",
+                        "consOriginal": null,
+                        "countHelpful": 2,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 5982133,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for sharing your feedback. We're truly sorry to hear about your experience. At EF, we strive to create supportive and inclusive work environments for all team members. We treat these allegations with the utmost seriousness and encourage you to reach out to HR@EF.com so that we may investigate and get a full picture of this.  Thank you again for your review.",
+                                "responseDateTime": "2025-02-11T09:48:48.877",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 43960,
+                            "text": "Financial Analyst"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 4,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1154545,
+                            "name": "Cambridge, MA",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Honestly, not many. Very nice office. Great location.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEGATIVE",
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": "DISAPPROVE",
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 3,
+                        "ratingDiversityAndInclusion": 1,
+                        "ratingOverall": 1,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 1.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-01-10T10:20:23.940",
+                        "reviewId": 94238855,
+                        "summary": "It's a low-paying cult",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": "Pay fairly.",
+                        "adviceOriginal": null,
+                        "cons": "They don't pay teachers nearly enough. Their full-time teachers earn under the poverty line for San Diego.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 6102682,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Hello, thank you for your feedback. Every year, we work to evaluate our compensation packages to make sure they are benchmarked with our industry. We appreciate the feedback.",
+                                "responseDateTime": "2025-04-15T06:29:32.43",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "PART_TIME",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 20246,
+                            "text": "Teacher"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 6,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1147311,
+                            "name": "San Diego, CA",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Flexibility to create own classes and teach when you are available",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEGATIVE",
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": "DISAPPROVE",
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 4,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 2.0,
+                        "ratingWorkLifeBalance": 3.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-02-03T16:27:09.613",
+                        "reviewId": 94782151,
+                        "summary": "High Profiting Company Low Pay",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "being a large company, may be difficult to make close connections across products.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 6100421,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thanks for providing your feedback. It's so great to hear your positive feedback on the work environment and career growth opportunities at EF. These aspects are incredibly important to us, and it's wonderful to hear that they stand out to you. Your feedback around the challenges of making connections accross products in such a large company as EF is helpful to hear, so we can consider ways to facilitate and create opportunities for connection across the organization. If you have anything else to share, you are welcome to send an email to hr@ef.com. Thank you again for taking the time to leave a review.",
+                                "responseDateTime": "2025-04-14T08:50:49.69",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 50838,
+                            "text": "Sales Associate"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 0,
+                        "location": null,
+                        "originalLanguageId": null,
+                        "pros": "Phenomenal work enviornment with a lot of career growth",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 0.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 0.0,
+                        "ratingCultureAndValues": 0,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 5,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 0.0,
+                        "ratingWorkLifeBalance": 0.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-02-06T09:46:09.837",
+                        "reviewId": 94851406,
+                        "summary": "Positive work enviornment",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Managers are more interested in being liked and some clearly got to their level due to friendships and tenure and not merit. Lack of career growth and no clear instructions or guidance. The overall pay is very low in comparison to market, company offers travel as makeup to pay.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 5982289,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for taking the time to leave a review. Our travel opportunities are a very appreciated part of the benefits at EF. We review our compensation structures annually with the goal to align with industry standards so feedback like yours helps. Thank you again for your feedback.",
+                                "responseDateTime": "2025-02-11T10:28:10.633",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 268832,
+                            "text": "Customer Success Specialist"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 6,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1148170,
+                            "name": "Denver, CO",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Amazing travel opportunities, great colleagues, amazing office culture and brilliant mission.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEUTRAL",
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": "NO_OPINION",
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 4,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 4,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 3.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-01-02T16:36:06.027",
+                        "reviewId": 94028434,
+                        "summary": "Great place to work but you must play their game",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Low Pay for managing a lot of accounts and tasks",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 6102680,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for taking the time to leave a review. We review our compensation structures annually to make sure to align with industry standards, so feedback like yours helps. Thank you again for the feedback.",
+                                "responseDateTime": "2025-04-15T06:28:31.947",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 21799,
+                            "text": "Tour Consultant"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 4,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1139761,
+                            "name": "Austin, TX",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Community is good. Young professionals",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEGATIVE",
+                        "ratingCareerOpportunities": 1.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 5,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 5.0,
+                        "ratingWorkLifeBalance": 5.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-02-10T11:47:50.163",
+                        "reviewId": 94926102,
+                        "summary": "TC Role",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Inconsistent to nonexistent management training causing unsupportive and disjointed leadership practices across departments.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 6099974,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for taking the time to provide feedback on your EF experience. We recognize that effective leadership training is a critical element in creating a cohesive and supportive work environment across all departments. There is always room to grow in this area. We aim to equip our leaders with the skills and tools needed to provide consistent and impactful guidance. We see this as an important area for continued focus, and your feedback helps underscore its significance. Thank you again for giving us feedback.",
+                                "responseDateTime": "2025-04-14T07:01:48.79",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 19257,
+                            "text": "Logistics Coordinator"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 6,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1154545,
+                            "name": "Cambridge, MA",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "Your work has the potential to create positive impact on students.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": null,
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": "DISAPPROVE",
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 2,
+                        "ratingDiversityAndInclusion": 2,
+                        "ratingOverall": 2,
+                        "ratingRecommendToFriend": null,
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 1.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-02-04T10:13:15.577",
+                        "reviewId": 94799293,
+                        "summary": "Inadequate management",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "There was a bit of a disconnect between the different locations of the company, which led to a bit of a chaotic feel at times.",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 5982263,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you so much for your review. We are so glad to hear that EFers are some of the best people you've worked with, as our vibrant culture is one of EF's defining strengths. Thank you again.",
+                                "responseDateTime": "2025-02-11T10:19:16.75",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 10429,
+                            "text": "IT Operations"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 2,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1154532,
+                            "name": "Boston, MA",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "You will work with some of the best people you've encountered. This is truly the strength of the company, as they've managed to hire incredibly talented people who are truly nice to work with.",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "POSITIVE",
+                        "ratingCareerOpportunities": 2.0,
+                        "ratingCeo": null,
+                        "ratingCompensationAndBenefits": 3.0,
+                        "ratingCultureAndValues": 3,
+                        "ratingDiversityAndInclusion": 0,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 2.0,
+                        "ratingWorkLifeBalance": 3.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-01-04T13:39:45.990",
+                        "reviewId": 94069483,
+                        "summary": "Good vision with some room to improve",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "- low pay \n- you have to take on a lot of projects out of your pay &amp; scope to be recognized and I\u2019m not sure salaries reflect this",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 5982257,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for your feedback. Our career opportunities are a valuable feature in what makes EF, EF. We regularly review our compensation packages to ensure they are benchmarked with industry standards. We are glad you have been enjoying your time here at EF and we thank you again for your review.",
+                                "responseDateTime": "2025-02-11T10:17:18.91",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": true,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 3600416,
+                            "text": "Regional Tour Consultant"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1154532,
+                            "name": "Boston, MA",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "- startup vibe as far as projects you can take on, with security of financially stable company",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "POSITIVE",
+                        "ratingCareerOpportunities": 5.0,
+                        "ratingCeo": "APPROVE",
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 4,
+                        "ratingDiversityAndInclusion": 4,
+                        "ratingOverall": 3,
+                        "ratingRecommendToFriend": "POSITIVE",
+                        "ratingSeniorLeadership": 5.0,
+                        "ratingWorkLifeBalance": 5.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-01-13T06:07:48.660",
+                        "reviewId": 94293713,
+                        "summary": "Great Networking &amp; Professional Opportunities - Low Pay",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": "grow up and do your job",
+                        "adviceOriginal": null,
+                        "cons": "the managers all do absolutely nothing and fire anyone who makes it too obvious that they don't do their job",
+                        "consOriginal": null,
+                        "countHelpful": 0,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 6099796,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for taking the time to leave a review. This is not an experience we want our employees to have. We take your concerns very seriously and, if you are comfortable, encourage you to share more details with us on hr@ef.com. This way we can better understand, and address, the experience you had.  Thank you again for sharing your feedback  with us.",
+                                "responseDateTime": "2025-04-14T06:29:43.603",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": null,
+                        "languageId": "eng",
+                        "lengthOfEmployment": 1,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1154171,
+                            "name": "Miami Beach, FL",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "students are amazing and so are teachers",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEGATIVE",
+                        "ratingCareerOpportunities": 1.0,
+                        "ratingCeo": "DISAPPROVE",
+                        "ratingCompensationAndBenefits": 1.0,
+                        "ratingCultureAndValues": 1,
+                        "ratingDiversityAndInclusion": 1,
+                        "ratingOverall": 1,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 1.0,
+                        "ratingWorkLifeBalance": 1.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2025-02-12T08:20:07.783",
+                        "reviewId": 94979442,
+                        "summary": "Toxic",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    },
+                    {
+                        "__typename": "EmployerReviewRG",
+                        "advice": null,
+                        "adviceOriginal": null,
+                        "cons": "Work/life balance is discouraged in the name of passion for the cause. If you want more balance in life, the culture suggests you may need to be more passionate about the cause. Great for those that want to invest that, but probably not for somone with a family or other life pulls.",
+                        "consOriginal": null,
+                        "countHelpful": 2,
+                        "countNotHelpful": 0,
+                        "employer": {
+                            "__typename": "Employer",
+                            "id": 335551,
+                            "largeLogoUrl": "https://media.glassdoor.com/sqll/335551/ef-education-first-squareLogo-1731701655267.png",
+                            "regularLogoUrl": "https://media.glassdoor.com/sql/335551/ef-education-first-squareLogo-1731701654832.png",
+                            "shortName": "EF Education First"
+                        },
+                        "employerResponses": [
+                            {
+                                "__typename": "EmployerResponse",
+                                "countHelpful": 0,
+                                "countNotHelpful": 0,
+                                "id": 5967582,
+                                "languageId": null,
+                                "originalLanguageId": null,
+                                "response": "Thank you for taking the time to leave a review.  We\u2019re sorry to hear about your negative feedback. This isn't the experience we want our employees to have. If you are comfortable sharing more information please reach out to hr@ef.com. Thank you again.",
+                                "responseDateTime": "2025-02-03T03:44:13.02",
+                                "responseOriginal": null,
+                                "translationMethod": null
+                            }
+                        ],
+                        "employmentStatus": "REGULAR",
+                        "featured": false,
+                        "flaggingDisabled": null,
+                        "isCurrentJob": false,
+                        "jobTitle": {
+                            "__typename": "JobTitle",
+                            "id": 39858,
+                            "text": "Senior Operations Manager"
+                        },
+                        "languageId": "eng",
+                        "lengthOfEmployment": 6,
+                        "location": {
+                            "__typename": "City",
+                            "id": 1154532,
+                            "name": "Boston, MA",
+                            "type": "CITY"
+                        },
+                        "originalLanguageId": null,
+                        "pros": "You can travel and meet fantastic people all around the world",
+                        "prosOriginal": null,
+                        "ratingBusinessOutlook": "NEUTRAL",
+                        "ratingCareerOpportunities": 3.0,
+                        "ratingCeo": "NO_OPINION",
+                        "ratingCompensationAndBenefits": 2.0,
+                        "ratingCultureAndValues": 3,
+                        "ratingDiversityAndInclusion": 5,
+                        "ratingOverall": 2,
+                        "ratingRecommendToFriend": "NEGATIVE",
+                        "ratingSeniorLeadership": 4.0,
+                        "ratingWorkLifeBalance": 1.0,
+                        "relatedStructures": [],
+                        "reviewDateTime": "2024-12-05T08:56:13.093",
+                        "reviewId": 93428092,
+                        "summary": "Great job if you want it to be your life",
+                        "summaryOriginal": null,
+                        "translationMethod": null
+                    }
+                ]
+            }
+        }
+    }
+]
